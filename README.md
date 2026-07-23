@@ -8,11 +8,6 @@ Building AI Applications • Full Stack Developer • Backend Enthusiast
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+AI+Applications;FastAPI+%7C+React+Developer;Flutter+Developer;Always+Learning+New+Things"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayanshankar17&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/nayanshankar17?style=flat&logo=github" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
