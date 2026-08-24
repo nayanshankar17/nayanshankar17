@@ -31,7 +31,7 @@ A production-ready AI platform that intelligently routes requests across multipl
 A healthcare management application focused on streamlining hospital workflows, patient records and administrative operations.
 
 ### 📱 Flutter Attendance Management App
-A Flutter-based employee attendance and HRMS application featuring authentication, attendance tracking, calendar visualization and SQLite storage.
+A Flutter-based employee attendance and #HRMS application featuring authentication, attendance tracking, calendar visualization and SQLite storage.
 
 > ⭐ Check out these projects in my pinned repositories below.
 
@@ -42,7 +42,7 @@ A Flutter-based employee attendance and HRMS application featuring authenticatio
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,react,html,css,tailwind,fastapi,postgres,mysql,flutter,git,github,vercel,vscode,render"/>
 </p>
 
 ### Frontend
