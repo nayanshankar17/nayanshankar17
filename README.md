@@ -39,41 +39,13 @@ A Flutter-based employee attendance and #HRMS application featuring authenticati
 
 # 🛠️ Tech Stack
 
-### Languages
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,react,html,css,tailwind,fastapi,postgres,mysql,flutter,git,github,vercel,vscode,render"/>
 </p>
 
-### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
-### Mobile
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter"/>
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render"/>
-</p>
 
 ---
 
